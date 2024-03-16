@@ -25,7 +25,8 @@ Our project seeks to revolutionize healthcare accessibility by ensuring that eve
 - **Member 1:** Anouska Jhunjhunwala
 - **Member 2:** Vikrant Singh
 
-
+## Figma Link
+  - https://www.figma.com/file/ziR9KjJOEZDeILEN7rdwtZ/DevHaus?type=design&node-id=0%3A1&mode=design&t=dXTqxpZ51G2igGEC-1
 ## How to Contribute
 - Fork and clone the repository.
 - Install dependencies using `npm install`.
